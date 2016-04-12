@@ -1,0 +1,13 @@
+# Generic
+baseURL      = "https://amoghe.github.io/"
+title        = "Akshay's"
+contentdir   = "content"
+publishdir   = "publish"
+theme        = "slim"
+
+[params]
+	# General
+	Subtitle = "... thoughts, notes and scratch-space"
+	# Social
+	GithubID  = "amoghe"
+	TwitterID = "astrodonut"
