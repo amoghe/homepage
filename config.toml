@@ -1,13 +1,13 @@
 # Generic
 baseURL      = "https://amoghe.github.io/"
-title        = "Akshay's"
+title        = "Akshay's scratch space"
 contentdir   = "content"
 publishdir   = "publish"
 theme        = "slim"
 
 [params]
 	# General
-	Subtitle = "... thoughts, notes and scratch-space"
+	Subtitle = "Space for thoughts/notes. Mostly to help future-me, and maybe current-you."
 	# Social
 	GithubID  = "amoghe"
 	TwitterID = "astrodonut"
